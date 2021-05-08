@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1620507926815" stop="1620507963198" version="1.4.11" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1620507926826" stop="1620507938493" status="passed">
+            <name>Login</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="rahul-B450M-DS3H-WIFI"/>
+                <label name="thread" value="17507@rahul-B450M-DS3H-WIFI.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1620507938527" stop="1620507963186" status="passed">
+            <name>OtpPage</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="rahul-B450M-DS3H-WIFI"/>
+                <label name="thread" value="17507@rahul-B450M-DS3H-WIFI.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
